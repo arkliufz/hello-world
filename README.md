@@ -1,2 +1,2 @@
 # hello-world
-Testing
+Part time financial modeler, part time Python newbie
